@@ -165,7 +165,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/cl_me_logesh"
+         "value": "https://t.me/cl_me_logesh"https://github.com/Sivasakthi12345/logibot
       }   
    }
 }
